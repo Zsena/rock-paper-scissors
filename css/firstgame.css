@@ -1,0 +1,32 @@
+body { 
+  background: url(img/firstgame.jpg) repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+section > img{
+  display: block;
+  margin: auto;
+}
+
+.container {
+  text-align: center;
+  font-size: 4rem;
+  color: #dedede;
+  background: black;
+  opacity: 0.8;
+  padding: 1rem;
+}
+
+.container p {
+  font-size: 2.5rem;
+}
+
+.btn {
+  font-size: 50px;
+  text-align: center;
+  display: block;
+  margin: 20px auto;
+}
